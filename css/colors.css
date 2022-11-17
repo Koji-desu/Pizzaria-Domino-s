@@ -1,3 +1,24 @@
 .bg-primary {
     background-color: #006491 !important;
 }
+
+.nav-item:hover{
+    background-color: #005177 !important;
+}
+
+.bg-secondary{
+    background-color: #e31837 !important;
+}
+
+.text-primary{
+    color: #006491 !important;
+}
+
+.btn-secondary{
+    background-color: #e31837 !important;
+    border-color: #e31837 !important;;
+}
+.btn-secondary:hover{
+    background-color: #d31733 !important;
+    border-color: #d31733 !important;;
+}
