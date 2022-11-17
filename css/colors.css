@@ -22,3 +22,16 @@
     background-color: #d31733 !important;
     border-color: #d31733 !important;;
 }
+
+.bg-footer{
+    background-color: #dbdbdb;
+    color: #848484;
+}
+
+.text-gray{
+    color: rgb(58, 56, 56);
+}
+
+.list-inline-item a:hover{
+    color:rgb(34, 32, 32); ;
+}
